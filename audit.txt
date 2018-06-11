@@ -1,0 +1,5 @@
+
+2018-05-31T13:16:17.659 : createItem: ID: 1 |Name: Gummy Bears |Price: 0.75 |Inventory: 16
+2018-05-31T13:16:39.068 : createItem: ID: 2 |Name: Doritos |Price: 1.05 |Inventory: 12
+2018-05-31T13:17:18.198 : createItem: ID: 3 |Name: Wrigley's Spearmint Gum |Price: 0.30 |Inventory: 2
+2018-05-31T13:51:48.560 : removeItem: 1
